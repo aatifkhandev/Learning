@@ -4,4 +4,4 @@
 **https://gate2025.iitr.ac.in/question-paper-pattern.html/**<br>
 **https://practicepaper.in/gate-cse/topic-wise-practice-of-gate-cse-previous-year-papers/**<br>
 
-**https://www.geeksforgeeks.org/permutations-and-combinations/**
+**https://www.geeksforgeeks.orgg/permutations-and-combinations/**
